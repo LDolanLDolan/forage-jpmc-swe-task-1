@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Live Stock Quote Viewer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>📈 J.P. Morgan Stock Quotes</h1>
+
+    <div id="quotes">
+      <div class="stock">
+        <h2>ABC</h2>
+        <p><strong>Bid:</strong> <span id="abc-bid">–</span></p>
+        <p><strong>Ask:</strong> <span id="abc-ask">–</span></p>
+        <p><strong>Price:</strong> <span id="abc-price">–</span></p>
+      </div>
+
+      <div class="stock">
+        <h2>DEF</h2>
+        <p><strong>Bid:</strong> <span id="def-bid">–</span></p>
+        <p><strong>Ask:</strong> <span id="def-ask">–</span></p>
+        <p><strong>Price:</strong> <span id="def-price">–</span></p>
+      </div>
+    </div>
+
+    <div class="ratio">
+      <h3>Ratio (ABC / DEF): <span id="ratio">–</span></h3>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
