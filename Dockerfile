@@ -1,4 +1,3 @@
-python-dateutil==2.8.2
 FROM python:3.11-slim
 
 # Set up working directory
