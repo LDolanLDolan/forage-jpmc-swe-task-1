@@ -1,7 +1,9 @@
 # 💼 Forage J.P. Morgan SWE Task 1 – Live Market Data Visualizer
 
-This project was completed as part of the **J.P. Morgan Software Engineering Virtual Internship** via [Forage](https://www.theforage.com/virtual-internships/prototype/jp-morgan/software-engineering).  
+
 It simulates a real-time stock price environment using a **Python-based market engine** and a **browser-based JavaScript visualizer**.
+
+This project was completed as part of the **J.P. Morgan Software Engineering Virtual Internship** via [Forage](https://www.theforage.com/virtual-internships/prototype/jp-morgan/software-engineering).  
 
 > 🔗 **Live Demo**  
 > - 📈 Frontend (Netlify): [https://fliprate.netlify.app](https://fliprate.netlify.app)  
