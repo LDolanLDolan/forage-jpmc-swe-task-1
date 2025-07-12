@@ -13,4 +13,4 @@ RUN pip install python-dateutil
 EXPOSE 8080
 
 # Run your custom server
-CMD ["python3", "jpmc-task-1/server3.py"]
+CMD ["python3", "server3.py"]
